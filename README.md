@@ -12,14 +12,17 @@
   - [Node.js] (v 4.3.1 LTS recommended)
 
 ### Installation
-  - Clone this repo into *Packages/User/*
-  - On Windows: *%APPDATA%\Sublime Text 3\Packages\User*
+  - Change directory to the Settings-User location (on Windows: *%APPDATA%\Sublime Text 3\Packages\User*)
+  - Run the following git commands from the Bash prompt:
 
 ```sh
-$ git clone https://github.com/jrmull/sublime-packages .
+$ git init
+$ git remote add origin https://github.com/jrmull/sublime-packages
+$ git fetch
+$ git reset origin/master
 ```
 
-  - Install **standard** and **standard-format** to the global path:
+  - Install **standard** and **standard-format** to the global path using npm (included with Node.js):
 
 ```sh
 $ npm install -g standard
