@@ -9,6 +9,7 @@
 
   - [Sublime Text 3]
   - [Package Control]
+  - [Git]
   - [Node.js] (v 4.3.1 LTS recommended)
 
 ### Installation
@@ -33,6 +34,7 @@ $ npm install -g standard-format
   - [Package Control Docs - Syncing]
 
 
+[Git]: <https://git-scm.com/>
 [JavaScript Standard Style]: <http://standardjs.com/>
 [Node.js]: <https://nodejs.org>
 [Package Control]: <https://packagecontrol.io/>
