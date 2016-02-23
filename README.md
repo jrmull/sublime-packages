@@ -1,9 +1,9 @@
-# [Sublime Text 3] - Installed Packages
+# [Sublime Text 3] - Installed Packages & Settings
 
 ### Included Packages
   - [SublimeLinter 3]
   - [SublimeLinter-contrib-standard] for the [JavaScript Standard Style]
-  - [StandardFormat] for automatic formatting on Save
+  - [StandardFormat] for automatic formatting ('Format On Save' disabled by default)
 
 ### Requirements
 
