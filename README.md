@@ -16,7 +16,7 @@
   - On Windows: *%APPDATA%\Sublime Text 3\Packages\User*
 
 ```sh
-$ git clone https://github.com/jrmull/sublime-packages
+$ git clone https://github.com/jrmull/sublime-packages .
 ```
 
   - Install **standard** and **standard-format** to the global path:
