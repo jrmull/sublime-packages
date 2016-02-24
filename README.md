@@ -10,17 +10,16 @@
   - [Sublime Text 3]
   - [Package Control]
   - [Git]
-  - [Node.js] (v 4.3.1 LTS recommended)
+  - [Node.js] - v 4.3.1 LTS and up recommended
 
 ### Installation
   - Change directory to the Settings-User location (on Windows: *%APPDATA%\Sublime Text 3\Packages\User*)
   - Run the following git commands from the Bash prompt:
 
 ```sh
-$ git init
-$ git remote add origin https://github.com/jrmull/sublime-packages
-$ git fetch
-$ git reset origin/master
+$ git clone https://github.com/jrmull/sublime-packages.git
+$ mv sublime-packages/* sublime-packages/.* ./
+$ rm -rf sublime-packages
 ```
 
   - Install **standard** and **standard-format** to the global path using npm (included with Node.js):
