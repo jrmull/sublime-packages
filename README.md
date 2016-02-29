@@ -1,8 +1,9 @@
 # [Sublime Text 3] - Installed Packages & Settings
 
 ### Included Packages
-  - [SublimeLinter 3]
-  - [SublimeLinter-contrib-standard] for the [JavaScript Standard Style]
+  - [Sublime​Code​Intel] - full-featured code intelligence and smart autocomplete engine
+  - [SublimeLinter 3] - plugin for Sublime Text 3 that provides a framework for linting code
+  - [SublimeLinter-contrib-standard] linter plugin for the [JavaScript Standard Style]
   - [StandardFormat] for automatic formatting ('Format On Save' disabled by default)
 
 ### User Preferences
@@ -44,6 +45,7 @@ $ npm install -g standard-format
 [Package Control]: <https://packagecontrol.io/>
 [Package Control Docs - Syncing]: <https://packagecontrol.io/docs/syncing>
 [Source Code Pro]: <https://github.com/adobe-fonts/source-code-pro>
+[Sublime​Code​Intel]: <http://sublimecodeintel.github.io/SublimeCodeIntel/>
 [StandardFormat]: <https://github.com/bcomnes/sublime-standard-format>
 [SublimeLinter 3]: <http://www.sublimelinter.com/>
 [SublimeLinter-contrib-standard]: <https://github.com/Flet/SublimeLinter-contrib-standard>

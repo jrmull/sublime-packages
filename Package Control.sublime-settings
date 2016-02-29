@@ -7,6 +7,7 @@
 	[
 		"Package Control",
 		"StandardFormat",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-standard"
 	]

@@ -1,12 +1,11 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_face": "Source Code Pro",
-    "font_size": 11,
-
-    // Valid options are "no_bold", "no_italic", "no_antialias", "gray_antialias",
-    // "subpixel_antialias", "no_round" (OS X only), "gdi" (Windows only) and
-    // "directwrite" (Windows only)
-    "font_options": ["directwrite"],    
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
