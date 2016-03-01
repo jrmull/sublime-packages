@@ -1,8 +1,8 @@
 # [Sublime Text 3] - Installed Packages & Settings
 
 ### Included Packages
-  - [SublimeLinter 3]
-  - [SublimeLinter-contrib-standard] for the [JavaScript Standard Style]
+  - [SublimeLinter 3] - plugin for Sublime Text 3 that provides a framework for linting code
+  - [SublimeLinter-contrib-standard] linter plugin for the [JavaScript Standard Style]
   - [StandardFormat] for automatic formatting ('Format On Save' disabled by default)
 
 ### User Preferences
@@ -10,7 +10,7 @@
 
 ### Requirements
 
-  - [Sublime Text 3]
+  - [Sublime Text 3] - recommend Build 3107+ for JavaScript improvements (performance, syntax highlighting, ES6 support)
   - [Package Control]
   - [Git]
   - [Node.js] - v 4.3.1 LTS and up recommended
@@ -48,4 +48,3 @@ $ npm install -g standard-format
 [SublimeLinter 3]: <http://www.sublimelinter.com/>
 [SublimeLinter-contrib-standard]: <https://github.com/Flet/SublimeLinter-contrib-standard>
 [Sublime Text 3]: <https://www.sublimetext.com/>
-

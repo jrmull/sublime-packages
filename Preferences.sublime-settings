@@ -1,14 +1,21 @@
 {
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "blink",
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_minimap_border": true,
 	"font_face": "Source Code Pro",
-    "font_size": 11,
-
-    // Valid options are "no_bold", "no_italic", "no_antialias", "gray_antialias",
-    // "subpixel_antialias", "no_round" (OS X only), "gdi" (Windows only) and
-    // "directwrite" (Windows only)
-    "font_options": ["directwrite"],    
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1
 }
