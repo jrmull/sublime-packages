@@ -38,6 +38,7 @@ Thumbs.db
 
 # Sublime Text #
 ################
+.sublime-workspace
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle

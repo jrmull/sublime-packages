@@ -6,7 +6,7 @@
   - [StandardFormat] for automatic formatting ('Format On Save' disabled by default)
 
 ### User Preferences
-  - Font: Adobe's [Source Code Pro] - Size: 11, Windows-specific [directwrite] enabled
+  - Font: Adobe's [Source Code Pro] - Size: 12, Windows-specific [directwrite] enabled
 
 ### Requirements
 
